@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-krish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnan2987/hello-world-krish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnan2987/hello-world-krish/issues"
+  },
+  "homepage": "https://github.com/krishnan2987/hello-world-krish#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
